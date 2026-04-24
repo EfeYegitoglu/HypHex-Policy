@@ -51,5 +51,14 @@ Users in the European Union (GDPR) and Turkey (KVKK) have specific rights regard
 6. Children’s Privacy
 HypHex does not knowingly collect information from children under the age of 13.
 
-7. Contact Information
+7.Account and Data Deletion Policy
+At HypHex, we provide our users with full control over their personal data. If you wish to delete your account and all associated data, you may use one of the following methods:
+
+A. In-App Deletion (Recommended)
+You can easily delete your account directly within the app. Navigate to the Settings menu and tap the "Delete Account" button. This action will immediately and permanently trigger the deletion of your profile and all associated game data (including conquered territories, hex data, and rank information).
+
+B. Manual Deletion Request
+If you have uninstalled the app or are unable to access your account, you can request data deletion by contacting us via email at hyphexgame@gmail.com. Please provide the email address associated with your account in your request. We will process your deletion request within 7 business days.
+
+8. Contact Information
 For any questions regarding this policy or your data, please contact: efe_yigitoglu@hotmail.com
